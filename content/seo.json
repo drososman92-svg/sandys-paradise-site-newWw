@@ -1,0 +1,47 @@
+{
+  "defaultLang": "en",
+  "languages": [
+    "en",
+    "el",
+    "fr",
+    "it",
+    "de"
+  ],
+  "brand": "Sandy's Paradise Infinity Resort",
+  "pages": {
+    "home": {
+      "en": {
+        "title": "Sandy's Paradise Infinity Resort – Perissa Santorini | Pool Resort with Parking",
+        "description": "A refined pool resort in Perissa Santorini with one of the largest pools in the area, lounge bar, continental breakfast and free parking. 10 minutes from Perissa Beach."
+      },
+      "el": {
+        "title": "Sandy's Paradise Infinity Resort – Περίσσα Σαντορίνη | Pool Resort με Parking",
+        "description": "Ένα refined pool resort στην Περίσσα Σαντορίνης με μία από τις μεγαλύτερες πισίνες της περιοχής, lounge bar, continental breakfast και δωρεάν parking. 10 λεπτά από την παραλία Περίσσας."
+      }
+    },
+    "cheap-hotel-santorini": {
+      "en": {
+        "title": "Affordable Pool Resort in Santorini | Sandy's Paradise Infinity Resort",
+        "description": "Affordable Santorini hotel with pool in Perissa, free parking and easy beach access."
+      }
+    },
+    "hotel-perissa-parking": {
+      "en": {
+        "title": "Perissa Hotel with Free Parking | Sandy's Paradise Infinity Resort",
+        "description": "Hotel in Perissa Santorini with free parking, pool and easy access to Perissa Beach."
+      }
+    },
+    "pool-hotel-santorini": {
+      "en": {
+        "title": "Santorini Pool Resort Stay | Sandy's Paradise Infinity Resort",
+        "description": "Large pool, bright rooms and a relaxed holiday atmosphere in Perissa Santorini."
+      }
+    },
+    "hotel-for-couples-santorini": {
+      "en": {
+        "title": "Santorini Stay for Couples | Sandy's Paradise Infinity Resort",
+        "description": "Pool resort stay for couples in Perissa Santorini with bright rooms and easy beach access."
+      }
+    }
+  }
+}
